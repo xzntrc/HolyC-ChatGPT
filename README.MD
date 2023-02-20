@@ -11,8 +11,8 @@ not explained how to print, at the moement it is assuming that it is done like P
 * Create a variable to store the number of oranges that are in an average supermarket basket. Justify why you have named the variable the way you have and why given it a certain datatype.
 > Okay. I can create a variable to store the number of oranges in an average supermarket basket in K12 using the following code:
 > ```holyc
-  U8 oranges = 12;
-```
+>  U8 oranges = 12;
+> ```
 > I have named the variable oranges to make it clear that it stores the number of oranges. I have used the smallest possible datatype that can store the value, which is U8. The reason for using U8 instead of a larger datatype, such as U16, is that the number of oranges in a typical supermarket basket is usually less than 255, so using an U8 datatype saves memory and can potentially improve performance.
 
 ## Prompt (COPY ALL)
