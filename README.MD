@@ -7,6 +7,8 @@ make any exceptions.
 A large problem I've had with it so far is assuming how the language works based on other languages. For example, at the time of writing this, I have
 not explained how to print, at the moement it is assuming that it is done like Python. So I must be extra careful to tell it not to do this.
 
+It's worth noting, I've told ChatGPT that the language is called K12, that way it does not confuse it with what it thinks is a musical band (apparently thats what HolyC is).
+
 ## Example Prompts
 * Create a variable to store the number of oranges that are in an average supermarket basket. Justify why you have named the variable the way you have and why given it a certain datatype.
 > Okay. I can create a variable to store the number of oranges in an average supermarket basket in K12 using the following code:
